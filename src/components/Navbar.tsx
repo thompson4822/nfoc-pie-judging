@@ -17,7 +17,7 @@ const Navbar = () => {
   return (
       <Layout>
           <Header style={headerStyle} className="header">
-              <div className="logo"><img src='/NFOC_Logo-2019.svg' alt={'the logo'}/></div>
+              <div className="logo"><img src={`${process.env.PUBLIC_URL}/NFOC_Logo-2019.svg`} alt={'the logo'}/></div>
               <Menu mode="horizontal" theme="dark">
                   <MenuItem key="home"><Link to='/'>Home</Link></MenuItem>
                   <MenuItem key="about"><Link to='/about'>About</Link></MenuItem>
