@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/nfoc-pie-judging/static/css/main.a1466d52.css",
-    "main.js": "/nfoc-pie-judging/static/js/main.4bb700e3.js",
+    "main.js": "/nfoc-pie-judging/static/js/main.feb0a677.js",
     "index.html": "/nfoc-pie-judging/index.html",
     "main.a1466d52.css.map": "/nfoc-pie-judging/static/css/main.a1466d52.css.map",
-    "main.4bb700e3.js.map": "/nfoc-pie-judging/static/js/main.4bb700e3.js.map"
+    "main.feb0a677.js.map": "/nfoc-pie-judging/static/js/main.feb0a677.js.map"
   },
   "entrypoints": [
     "static/css/main.a1466d52.css",
-    "static/js/main.4bb700e3.js"
+    "static/js/main.feb0a677.js"
   ]
 }
