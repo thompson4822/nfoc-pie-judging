@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.logo {
+  height: 64px;
+  width: 150px;
+  margin: 0px 28px 16px 0;
+  float: left;
+  background: azure;
+}
+
+.header {
+  background: #001529 !important;
+}
